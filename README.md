@@ -37,5 +37,5 @@ Efficient Python solutions for classic LeetCode array and string manipulation pr
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/array-challenges.git
+git clone https://github.com/Sh1ngeki/Python-array-utils.git
 cd array-challenges
